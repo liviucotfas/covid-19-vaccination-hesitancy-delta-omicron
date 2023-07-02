@@ -1,5 +1,5 @@
 # Overview
-This repository contains the balanced annotated dataset referenced in the paper **"Detecting Vaccine Hesitancy in Tweets during the First Month following COVID-19 Delta and Omicron Variants Occurrence"** submitted to the **Scientific Reports** journal.
+This repository contains the balanced annotated dataset referenced in the paper **"Unveiling Vaccine Hesitancy on Twitter: Analyzing Trends and Reasons during the Emergence of COVID-19 Delta and Omicron Variants"**.
 
 The tweets have been extracted for two one-month periods, the first one starting on the date on which World Health Organization (WHO) reported that Delta is a variant of interest (namely April 4, 2021 – May 3, 2021) and the other starting on the date on which Omicron was reported as a variant under monitoring (November 24, 2021 – December 23, 2021).
 
